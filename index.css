@@ -1,0 +1,48 @@
+.title {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.contenedorAzul {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-color: rgb(230, 230, 230);
+  border-width: 0.5em;
+  border-radius: 20px;
+  margin-top: 5%;
+  padding: 5%;
+  background-color: #21345c;
+  max-width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.txt {
+  color: rgb(255, 255, 255);
+  font-size: 1.1em;
+}
+
+.btn-principal {
+  background-color: rgb(18, 216, 150);
+  padding: 10px;
+  border-radius: 5px;
+  border-color: rgb(9, 232, 158);
+  color: white;
+}
+
+.line {
+  border-style: solid;
+  border-bottom: 5px;
+  border-width: 1px;
+  border-color: rgb(172, 175, 180);
+}
+
+.inputs {
+  padding: 7px 0;
+  text-align: center;
+  color: rgb(18, 216, 150);
+  width: 250px;
+  height: 40px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: #314674;
+  border-color: #314674;
+}
